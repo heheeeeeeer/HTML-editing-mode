@@ -1,4 +1,4 @@
-# HTML Editor Mode
+# HTML Editing Mode
 
 [![中文](https://img.shields.io/badge/语言-中文-1f6feb?style=flat-square)](README.md)
 
@@ -15,24 +15,24 @@ Add a lightweight, polished visual editing mode to an existing HTML page while p
 
 ## Use
 
-Copy the `html-editor-mode` folder to the skills or instructions directory used by your AI coding agent.
+Copy the `html-editing-mode` folder to the skills or instructions directory used by your AI coding agent.
 
 Agents that support the `SKILL.md` convention can read the workflow directly; follow your agent platform's documentation for the exact installation path. For Codex, use:
 
 ```text
-~/.codex/skills/html-editor-mode/
+~/.codex/skills/html-editing-mode/
 ```
 
 Then ask:
 
 ```text
-Use $html-editor-mode to add a lightweight editing mode to this HTML page.
+Use $html-editing-mode to add a lightweight editing mode to this HTML page.
 ```
 
 ## Structure
 
 ```text
-html-editor-mode/
+html-editing-mode/
 ├── SKILL.md
 └── agents/openai.yaml
 ```

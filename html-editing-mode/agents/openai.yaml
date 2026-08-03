@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML Editing Mode"
+  short_description: "Add polished editing controls to existing HTML pages"
+  default_prompt: "Use $html-editing-mode to add a lightweight editing mode to this HTML page."

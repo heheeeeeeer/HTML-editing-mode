@@ -1,9 +1,9 @@
 ---
-name: html-editor-mode
+name: html-editing-mode
 description: Add or refine a lightweight, elegant in-browser editing mode for an existing HTML presentation, landing page, or interactive page. Use when the user wants editable text, images, colors, positioning, HTML export, or a subtle editor menu that preserves the original design and interactions.
 ---
 
-# HTML Editor Mode
+# HTML Editing Mode
 
 Add an editing layer with the least invasive changes possible. Preserve the original visual language, responsive layout, animations, navigation, and page logic.
 

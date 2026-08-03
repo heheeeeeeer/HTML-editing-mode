@@ -1,4 +1,0 @@
-interface:
-  display_name: "HTML Editor Mode"
-  short_description: "Add polished editing controls to existing HTML pages"
-  default_prompt: "Use $html-editor-mode to add a lightweight editing mode to this HTML page."

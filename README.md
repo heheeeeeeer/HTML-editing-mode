@@ -1,4 +1,4 @@
-# HTML Editor Mode
+# HTML Editing Mode
 
 [![English](https://img.shields.io/badge/Language-English-1f6feb?style=flat-square)](README.en.md)
 
@@ -15,24 +15,24 @@
 
 ## 使用方式
 
-将 `html-editor-mode` 文件夹复制到你的 AI 编程 Agent 所使用的 skills / instructions 目录中。
+将 `html-editing-mode` 文件夹复制到你的 AI 编程 Agent 所使用的 skills / instructions 目录中。
 
 支持 `SKILL.md` 约定的 Agent 可直接读取其中的工作流；具体安装位置请遵循所用 Agent 平台的文档。以 Codex 为例：
 
 ```text
-~/.codex/skills/html-editor-mode/
+~/.codex/skills/html-editing-mode/
 ```
 
 然后在任务中说明：
 
 ```text
-Use $html-editor-mode to add a lightweight editing mode to this HTML page.
+Use $html-editing-mode to add a lightweight editing mode to this HTML page.
 ```
 
 ## 项目结构
 
 ```text
-html-editor-mode/
+html-editing-mode/
 ├── SKILL.md
 └── agents/openai.yaml
 ```
